@@ -1,0 +1,8 @@
+name: Rules
+main: org.virange.Rules
+version: 1.0
+commands:
+  rule:
+    description: The punishment for a player.
+    aliases: [r, rule]
+

@@ -1,0 +1,9 @@
+Messages:
+  Prefix: "&7[&6&lRules&7] "
+  Plugin-reloaded: "&aКонфигурация плагина успешно перезагружена!"
+  No-permission: "&cУ вас недостаточно прав."
+  Not-enough-player-name: "&cВы должны указать никнейм игрока."
+  Too-many-arguments: "&cУказано слишком много аргументов!"
+  Player_Doesnt_Exit: "&cТакого игрока не существует."
+  No_arguments: "&cВведите /rule <правило> <ник>."
+  Immunity: "&cВы не можете наказать этого игрока."

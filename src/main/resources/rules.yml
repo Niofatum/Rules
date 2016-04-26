@@ -1,0 +1,17 @@
+1:
+  punish: "ban"
+  reason: 'Использование читов'
+  message: "%punishwho% наказан %punishby% за нарушение правила %rule%."
+2:
+  punish: "mute"
+  time: "42"
+  message: "%punishwho% наказан %punishby% за нарушение правила %rule%."
+3:
+  punish: "kick"
+  reason: 'Просто идиот'
+  message: "message_3"
+4:
+  punish: "tempban"
+  reason: 'Использование дюпа'
+  time: "42"
+  message: "%punishwho% наказан %punishby% за нарушение правила %rule%."
