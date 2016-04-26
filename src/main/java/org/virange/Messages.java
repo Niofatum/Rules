@@ -21,7 +21,7 @@ public class Messages {
     public String PLAYER_DOESNT_EXIT = config.getString("Messages.Player_Doesnt_Exit");
     public String NO_ARGUMENTS = config.getString("Messages.No_arguments");
     public String IMMUNITY = config.getString("Messages.Immunity");
-
+    public String INCORECTRULE = config.getString("Messages.IncorectRule");
     public Messages(Player sender) {
         this.player = sender;
     }

@@ -45,6 +45,11 @@ public class RulesCommands implements CommandExecutor {
             return true;
         }
 
+        if (Settings.getRuleList(args[0]) == null) {
+            Message.sendErrorMessage(Message.INCORECTRULE);
+            return true;
+        }
+
         rule = Settings.getRuleList(args[0]).getRule();
         reason = Settings.getRuleList(args[0]).getReason();
         message = Settings.getRuleList(args[0]).getMessage();

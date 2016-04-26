@@ -7,3 +7,4 @@ Messages:
   Player_Doesnt_Exit: "&cТакого игрока не существует."
   No_arguments: "&cВведите /rule <правило> <ник>."
   Immunity: "&cВы не можете наказать этого игрока."
+  IncorectRule: "&cТакого правила не существует."
